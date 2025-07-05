@@ -1,0 +1,15 @@
+{"time":"2025-07-05T22:10:50.6723903+08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-07-05T22:10:50.6723903+08:00","level":"INFO","msg":"created symlink","path":"D:\\Pythonpro\\imge-transfer\\wandb\\offline-run-20250705_221050-8tubanmw\\logs\\debug-core.log"}
+{"time":"2025-07-05T22:10:50.836773+08:00","level":"INFO","msg":"created new stream","id":"8tubanmw"}
+{"time":"2025-07-05T22:10:50.8372886+08:00","level":"INFO","msg":"handler: started","stream_id":"8tubanmw"}
+{"time":"2025-07-05T22:10:50.8372886+08:00","level":"INFO","msg":"stream: started","id":"8tubanmw"}
+{"time":"2025-07-05T22:10:50.8372886+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"8tubanmw"}
+{"time":"2025-07-05T22:10:50.8372886+08:00","level":"INFO","msg":"sender: started","stream_id":"8tubanmw"}
+{"time":"2025-07-05T22:10:50.8471259+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-07-05T22:10:52.2888553+08:00","level":"INFO","msg":"stream: closing","id":"8tubanmw"}
+{"time":"2025-07-05T22:10:52.289572+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-07-05T22:10:52.2901874+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-07-05T22:10:52.2907022+08:00","level":"INFO","msg":"handler: closed","stream_id":"8tubanmw"}
+{"time":"2025-07-05T22:10:52.2907022+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"8tubanmw"}
+{"time":"2025-07-05T22:10:52.2907022+08:00","level":"INFO","msg":"sender: closed","stream_id":"8tubanmw"}
+{"time":"2025-07-05T22:10:52.2907022+08:00","level":"INFO","msg":"stream: closed","id":"8tubanmw"}

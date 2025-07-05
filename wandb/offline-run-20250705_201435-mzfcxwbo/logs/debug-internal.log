@@ -1,0 +1,15 @@
+{"time":"2025-07-05T20:14:35.5365644+08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-07-05T20:14:35.5365644+08:00","level":"INFO","msg":"created symlink","path":"D:\\Pythonpro\\imge-transfer\\wandb\\offline-run-20250705_201435-mzfcxwbo\\logs\\debug-core.log"}
+{"time":"2025-07-05T20:14:35.7016316+08:00","level":"INFO","msg":"created new stream","id":"mzfcxwbo"}
+{"time":"2025-07-05T20:14:35.7016316+08:00","level":"INFO","msg":"stream: started","id":"mzfcxwbo"}
+{"time":"2025-07-05T20:14:35.7016316+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"mzfcxwbo"}
+{"time":"2025-07-05T20:14:35.7016316+08:00","level":"INFO","msg":"handler: started","stream_id":"mzfcxwbo"}
+{"time":"2025-07-05T20:14:35.7016316+08:00","level":"INFO","msg":"sender: started","stream_id":"mzfcxwbo"}
+{"time":"2025-07-05T20:14:35.7134136+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-07-05T20:14:35.8985242+08:00","level":"INFO","msg":"stream: closing","id":"mzfcxwbo"}
+{"time":"2025-07-05T20:14:35.8985242+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-07-05T20:14:35.8993027+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-07-05T20:14:35.8993027+08:00","level":"INFO","msg":"handler: closed","stream_id":"mzfcxwbo"}
+{"time":"2025-07-05T20:14:35.8993027+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"mzfcxwbo"}
+{"time":"2025-07-05T20:14:35.8993027+08:00","level":"INFO","msg":"sender: closed","stream_id":"mzfcxwbo"}
+{"time":"2025-07-05T20:14:35.8999489+08:00","level":"INFO","msg":"stream: closed","id":"mzfcxwbo"}

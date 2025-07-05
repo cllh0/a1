@@ -1,0 +1,15 @@
+{"time":"2025-07-04T19:11:57.3860397+08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-07-04T19:11:57.3860397+08:00","level":"INFO","msg":"created symlink","path":"D:\\Pythonpro\\imge-transfer\\wandb\\offline-run-20250704_191157-u4n3amtr\\logs\\debug-core.log"}
+{"time":"2025-07-04T19:11:57.7982911+08:00","level":"INFO","msg":"created new stream","id":"u4n3amtr"}
+{"time":"2025-07-04T19:11:57.7982911+08:00","level":"INFO","msg":"stream: started","id":"u4n3amtr"}
+{"time":"2025-07-04T19:11:57.7982911+08:00","level":"INFO","msg":"handler: started","stream_id":"u4n3amtr"}
+{"time":"2025-07-04T19:11:57.7992947+08:00","level":"INFO","msg":"sender: started","stream_id":"u4n3amtr"}
+{"time":"2025-07-04T19:11:57.7992947+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"u4n3amtr"}
+{"time":"2025-07-04T19:11:57.8168452+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-07-04T19:14:04.1517782+08:00","level":"INFO","msg":"stream: closing","id":"u4n3amtr"}
+{"time":"2025-07-04T19:14:04.1517782+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-07-04T19:14:04.1528563+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-07-04T19:14:04.153384+08:00","level":"INFO","msg":"handler: closed","stream_id":"u4n3amtr"}
+{"time":"2025-07-04T19:14:04.153384+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"u4n3amtr"}
+{"time":"2025-07-04T19:14:04.153384+08:00","level":"INFO","msg":"sender: closed","stream_id":"u4n3amtr"}
+{"time":"2025-07-04T19:14:04.1545289+08:00","level":"INFO","msg":"stream: closed","id":"u4n3amtr"}

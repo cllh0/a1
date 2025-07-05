@@ -1,0 +1,27 @@
+{
+  "os":  "Windows-10-10.0.26100-SP0",
+  "python":  "3.9.20",
+  "startedAt":  "2025-07-04T11:11:57.053558Z",
+  "program":  "D:\\Pythonpro\\imge-transfer\\run_single.py",
+  "codePath":  "run_single.py",
+  "root":  "D:\\Pythonpro\\imge-transfer",
+  "host":  "LAPTOP-04227G99",
+  "username":  "LENOVO",
+  "executable":  "D:\\Anac\\envs\\pytorch3.11\\python.exe",
+  "codePathLocal":  "run_single.py",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "296022437888",
+      "used":  "197355638784"
+    }
+  },
+  "memory":  {
+    "total":  "16487870464"
+  },
+  "cpu":  {
+    "count":  6,
+    "countLogical":  12
+  }
+}

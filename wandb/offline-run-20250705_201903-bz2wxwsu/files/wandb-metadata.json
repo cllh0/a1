@@ -1,0 +1,27 @@
+{
+  "os":  "Windows-10-10.0.26100-SP0",
+  "python":  "3.9.20",
+  "startedAt":  "2025-07-05T12:19:03.584991Z",
+  "program":  "D:\\Pythonpro\\imge-transfer\\multi-trans.py",
+  "codePath":  "multi-trans.py",
+  "root":  "D:\\Pythonpro\\imge-transfer",
+  "host":  "LAPTOP-04227G99",
+  "username":  "LENOVO",
+  "executable":  "D:\\Anac\\envs\\pytorch3.11\\python.exe",
+  "codePathLocal":  "multi-trans.py",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "296022437888",
+      "used":  "197372039168"
+    }
+  },
+  "memory":  {
+    "total":  "16487870464"
+  },
+  "cpu":  {
+    "count":  6,
+    "countLogical":  12
+  }
+}

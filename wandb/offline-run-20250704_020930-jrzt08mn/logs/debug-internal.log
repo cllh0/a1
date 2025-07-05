@@ -1,0 +1,16 @@
+{"time":"2025-07-04T02:09:30.6755144+08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-07-04T02:09:30.6755144+08:00","level":"INFO","msg":"created symlink","path":"D:\\Pythonpro\\imge-transfer\\wandb\\offline-run-20250704_020930-jrzt08mn\\logs\\debug-core.log"}
+{"time":"2025-07-04T02:09:30.9251444+08:00","level":"INFO","msg":"created new stream","id":"jrzt08mn"}
+{"time":"2025-07-04T02:09:30.9251444+08:00","level":"INFO","msg":"stream: started","id":"jrzt08mn"}
+{"time":"2025-07-04T02:09:30.9251444+08:00","level":"INFO","msg":"handler: started","stream_id":"jrzt08mn"}
+{"time":"2025-07-04T02:09:30.9251444+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"jrzt08mn"}
+{"time":"2025-07-04T02:09:30.9251444+08:00","level":"INFO","msg":"sender: started","stream_id":"jrzt08mn"}
+{"time":"2025-07-04T02:09:30.9483979+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-07-04T02:31:10.3160997+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-07-04T02:31:10.3176703+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-07-04T02:31:10.31921+08:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-07-04T02:31:11.3409471+08:00","level":"INFO","msg":"stream: closing","id":"jrzt08mn"}
+{"time":"2025-07-04T02:31:11.3414625+08:00","level":"INFO","msg":"handler: closed","stream_id":"jrzt08mn"}
+{"time":"2025-07-04T02:31:11.3414625+08:00","level":"INFO","msg":"sender: closed","stream_id":"jrzt08mn"}
+{"time":"2025-07-04T02:31:11.3414625+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"jrzt08mn"}
+{"time":"2025-07-04T02:31:11.3414625+08:00","level":"INFO","msg":"stream: closed","id":"jrzt08mn"}

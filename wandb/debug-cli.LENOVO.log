@@ -1,0 +1,260 @@
+2025-07-04 19:16:00 INFO open for scan: D:\Pythonpro\imge-transfer\wandb\offline-run-20250703_235825-i3oc131e\run-i3oc131e.wandb
+2025-07-04 19:16:01 INFO watching files in: D:\Pythonpro\imge-transfer\wandb\offline-run-20250703_235825-i3oc131e\files
+2025-07-04 19:16:01 INFO run started: i3oc131e with start time 1751558305.954168
+2025-07-04 19:16:01 INFO saving file wandb-metadata.json with policy now
+2025-07-04 19:16:01 INFO saving file wandb-metadata.json with policy now
+2025-07-04 19:16:01 INFO saving file requirements.txt with policy now
+2025-07-04 19:16:01 INFO saving file media\images\style_image_0_b8a36cd8752497510389.jpg with policy now
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file media\images\content_image_1_964cd9ed8cf8b0b484f8.jpg with policy now
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file media\images\result_image_22_0554705a21d626bbef4a.jpg with policy now
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:16:01 INFO shutting down sender
+2025-07-04 19:16:02 INFO file/dir modified: D:\Pythonpro\imge-transfer\wandb\offline-run-20250703_235825-i3oc131e\files\output.log
+2025-07-04 19:16:02 INFO file/dir created: D:\Pythonpro\imge-transfer\wandb\offline-run-20250703_235825-i3oc131e\files\wandb-summary.json
+2025-07-04 19:16:02 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmp0y1kxxv5wandb\b84lrevs-wandb-metadata.json
+2025-07-04 19:16:03 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmp0y1kxxv5wandb\pxmuznrr-requirements.txt
+2025-07-04 19:16:03 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmp0y1kxxv5wandb\yedvlayw-media/images/result_image_22_0554705a21d626bbef4a.jpg
+2025-07-04 19:16:03 INFO shutting down directory watcher
+2025-07-04 19:16:03 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmp0y1kxxv5wandb\gut1k2tj-wandb-metadata.json
+2025-07-04 19:16:03 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmp0y1kxxv5wandb\9yqqrh9e-media/images/content_image_1_964cd9ed8cf8b0b484f8.jpg
+2025-07-04 19:16:03 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmp0y1kxxv5wandb\ixj56o1t-media/images/style_image_0_b8a36cd8752497510389.jpg
+2025-07-04 19:16:04 INFO file/dir modified: D:\Pythonpro\imge-transfer\wandb\offline-run-20250703_235825-i3oc131e\files\output.log
+2025-07-04 19:16:04 INFO scan: D:\Pythonpro\imge-transfer\wandb\offline-run-20250703_235825-i3oc131e\files
+2025-07-04 19:16:04 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250703_235825-i3oc131e\files\config.yaml config.yaml
+2025-07-04 19:16:04 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250703_235825-i3oc131e\files\output.log output.log
+2025-07-04 19:16:04 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250703_235825-i3oc131e\files\requirements.txt requirements.txt
+2025-07-04 19:16:04 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250703_235825-i3oc131e\files\wandb-metadata.json wandb-metadata.json
+2025-07-04 19:16:04 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250703_235825-i3oc131e\files\wandb-summary.json wandb-summary.json
+2025-07-04 19:16:04 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250703_235825-i3oc131e\files\media\images\content_image_1_964cd9ed8cf8b0b484f8.jpg media/images/content_image_1_964cd9ed8cf8b0b484f8.jpg
+2025-07-04 19:16:04 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250703_235825-i3oc131e\files\media\images\result_image_22_0554705a21d626bbef4a.jpg media/images/result_image_22_0554705a21d626bbef4a.jpg
+2025-07-04 19:16:04 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250703_235825-i3oc131e\files\media\images\style_image_0_b8a36cd8752497510389.jpg media/images/style_image_0_b8a36cd8752497510389.jpg
+2025-07-04 19:16:04 INFO shutting down file pusher
+2025-07-04 19:16:04 INFO waiting for file pusher
+2025-07-04 19:16:05 INFO Uploaded file D:\Pythonpro\imge-transfer\wandb\offline-run-20250703_235825-i3oc131e\files\config.yaml
+2025-07-04 19:16:05 INFO Uploaded file D:\Pythonpro\imge-transfer\wandb\offline-run-20250703_235825-i3oc131e\files\output.log
+2025-07-04 19:16:05 INFO Uploaded file D:\Pythonpro\imge-transfer\wandb\offline-run-20250703_235825-i3oc131e\files\wandb-summary.json
+2025-07-04 19:16:05 INFO file stream finish called
+2025-07-04 19:16:07 INFO file stream finish is done
+2025-07-04 19:19:50 INFO open for scan: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\run-jrzt08mn.wandb
+2025-07-04 19:19:52 INFO watching files in: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files
+2025-07-04 19:19:52 INFO run started: jrzt08mn with start time 1751566170.291066
+2025-07-04 19:19:52 INFO saving file wandb-metadata.json with policy now
+2025-07-04 19:19:52 INFO saving file wandb-metadata.json with policy now
+2025-07-04 19:19:52 INFO saving file requirements.txt with policy now
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file media\images\result_image_2_649f1331a2ac2ade7296.jpg with policy now
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file media\images\result_image_5_fa3c650bdb11a0744b59.jpg with policy now
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file media\images\result_image_8_96411b4b73d3082907cd.jpg with policy now
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file media\images\result_image_11_420d64a6e20e0cab208d.jpg with policy now
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file media\images\result_image_14_1ebe5ace3883d1f330f8.jpg with policy now
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file media\images\result_image_17_afab16682c94b9515fc5.jpg with policy now
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file media\images\result_image_20_70bda71b67c4c2912934.jpg with policy now
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file media\images\result_image_23_9b4432f125e6f27df804.jpg with policy now
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file media\images\result_image_26_d8ea14c662b673e05b21.jpg with policy now
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file media\images\result_image_29_4d334bb14efd053782fc.jpg with policy now
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file media\images\result_image_32_5ddeae197cedaf5560a1.jpg with policy now
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file media\images\result_image_35_bd3cf01d89ea86b11c50.jpg with policy now
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file media\images\result_image_38_236781efe27ee87b1f8b.jpg with policy now
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file media\images\result_image_41_335f9c1fa0c6da06f85d.jpg with policy now
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file media\images\result_image_44_321fb29951a4d895e715.jpg with policy now
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO saving file wandb-summary.json with policy end
+2025-07-04 19:19:52 INFO shutting down sender
+2025-07-04 19:19:53 INFO file/dir modified: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\output.log
+2025-07-04 19:19:53 INFO file/dir created: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\wandb-summary.json
+2025-07-04 19:19:53 WARNING Connection pool is full, discarding connection: api.wandb.ai. Connection pool size: 10
+2025-07-04 19:19:53 WARNING Connection pool is full, discarding connection: api.wandb.ai. Connection pool size: 10
+2025-07-04 19:19:53 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmprpui0328wandb\xfq18pym-wandb-metadata.json
+2025-07-04 19:19:53 WARNING Connection pool is full, discarding connection: api.wandb.ai. Connection pool size: 10
+2025-07-04 19:19:53 WARNING Connection pool is full, discarding connection: api.wandb.ai. Connection pool size: 10
+2025-07-04 19:19:53 WARNING Connection pool is full, discarding connection: api.wandb.ai. Connection pool size: 10
+2025-07-04 19:19:53 WARNING Connection pool is full, discarding connection: api.wandb.ai. Connection pool size: 10
+2025-07-04 19:19:54 WARNING Connection pool is full, discarding connection: api.wandb.ai. Connection pool size: 10
+2025-07-04 19:19:54 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmprpui0328wandb\goce5rhh-media/images/result_image_8_96411b4b73d3082907cd.jpg
+2025-07-04 19:19:54 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmprpui0328wandb\3gtdivwz-media/images/result_image_17_afab16682c94b9515fc5.jpg
+2025-07-04 19:19:54 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmprpui0328wandb\3j0dmfse-requirements.txt
+2025-07-04 19:19:54 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmprpui0328wandb\rpgmr1pv-media/images/result_image_32_5ddeae197cedaf5560a1.jpg
+2025-07-04 19:19:54 INFO shutting down directory watcher
+2025-07-04 19:19:54 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmprpui0328wandb\cpbhj7xi-media/images/result_image_11_420d64a6e20e0cab208d.jpg
+2025-07-04 19:19:54 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmprpui0328wandb\h8a00oi4-media/images/result_image_5_fa3c650bdb11a0744b59.jpg
+2025-07-04 19:19:54 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmprpui0328wandb\mnk44c6k-media/images/result_image_23_9b4432f125e6f27df804.jpg
+2025-07-04 19:19:54 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmprpui0328wandb\tyukkrfg-media/images/result_image_2_649f1331a2ac2ade7296.jpg
+2025-07-04 19:19:54 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmprpui0328wandb\caqirrfy-media/images/result_image_14_1ebe5ace3883d1f330f8.jpg
+2025-07-04 19:19:54 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmprpui0328wandb\ax5zlz1j-media/images/result_image_26_d8ea14c662b673e05b21.jpg
+2025-07-04 19:19:54 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2025-07-04 19:19:54 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmprpui0328wandb\mm1ns7f3-media/images/result_image_20_70bda71b67c4c2912934.jpg
+2025-07-04 19:19:54 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2025-07-04 19:19:54 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmprpui0328wandb\7s4oc4ui-media/images/result_image_44_321fb29951a4d895e715.jpg
+2025-07-04 19:19:54 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2025-07-04 19:19:54 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmprpui0328wandb\4k2r7i9a-media/images/result_image_29_4d334bb14efd053782fc.jpg
+2025-07-04 19:19:54 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2025-07-04 19:19:54 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmprpui0328wandb\1tkl6pft-media/images/result_image_41_335f9c1fa0c6da06f85d.jpg
+2025-07-04 19:19:54 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2025-07-04 19:19:54 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmprpui0328wandb\rghety2l-media/images/result_image_38_236781efe27ee87b1f8b.jpg
+2025-07-04 19:19:54 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2025-07-04 19:19:54 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmprpui0328wandb\q7waomq5-media/images/result_image_35_bd3cf01d89ea86b11c50.jpg
+2025-07-04 19:19:54 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2025-07-04 19:19:54 INFO Uploaded file C:\Users\LENOVO\AppData\Local\Temp\tmprpui0328wandb\amchxk1r-wandb-metadata.json
+2025-07-04 19:19:55 INFO file/dir modified: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\output.log
+2025-07-04 19:19:55 INFO scan: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files
+2025-07-04 19:19:55 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\config.yaml config.yaml
+2025-07-04 19:19:55 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\output.log output.log
+2025-07-04 19:19:55 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\requirements.txt requirements.txt
+2025-07-04 19:19:55 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\wandb-metadata.json wandb-metadata.json
+2025-07-04 19:19:55 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\wandb-summary.json wandb-summary.json
+2025-07-04 19:19:55 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\media\images\result_image_11_420d64a6e20e0cab208d.jpg media/images/result_image_11_420d64a6e20e0cab208d.jpg
+2025-07-04 19:19:55 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\media\images\result_image_14_1ebe5ace3883d1f330f8.jpg media/images/result_image_14_1ebe5ace3883d1f330f8.jpg
+2025-07-04 19:19:55 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\media\images\result_image_17_afab16682c94b9515fc5.jpg media/images/result_image_17_afab16682c94b9515fc5.jpg
+2025-07-04 19:19:55 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\media\images\result_image_20_70bda71b67c4c2912934.jpg media/images/result_image_20_70bda71b67c4c2912934.jpg
+2025-07-04 19:19:55 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\media\images\result_image_23_9b4432f125e6f27df804.jpg media/images/result_image_23_9b4432f125e6f27df804.jpg
+2025-07-04 19:19:55 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\media\images\result_image_26_d8ea14c662b673e05b21.jpg media/images/result_image_26_d8ea14c662b673e05b21.jpg
+2025-07-04 19:19:55 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\media\images\result_image_29_4d334bb14efd053782fc.jpg media/images/result_image_29_4d334bb14efd053782fc.jpg
+2025-07-04 19:19:55 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\media\images\result_image_2_649f1331a2ac2ade7296.jpg media/images/result_image_2_649f1331a2ac2ade7296.jpg
+2025-07-04 19:19:55 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\media\images\result_image_32_5ddeae197cedaf5560a1.jpg media/images/result_image_32_5ddeae197cedaf5560a1.jpg
+2025-07-04 19:19:55 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\media\images\result_image_35_bd3cf01d89ea86b11c50.jpg media/images/result_image_35_bd3cf01d89ea86b11c50.jpg
+2025-07-04 19:19:55 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\media\images\result_image_38_236781efe27ee87b1f8b.jpg media/images/result_image_38_236781efe27ee87b1f8b.jpg
+2025-07-04 19:19:55 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\media\images\result_image_41_335f9c1fa0c6da06f85d.jpg media/images/result_image_41_335f9c1fa0c6da06f85d.jpg
+2025-07-04 19:19:55 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\media\images\result_image_44_321fb29951a4d895e715.jpg media/images/result_image_44_321fb29951a4d895e715.jpg
+2025-07-04 19:19:55 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\media\images\result_image_5_fa3c650bdb11a0744b59.jpg media/images/result_image_5_fa3c650bdb11a0744b59.jpg
+2025-07-04 19:19:55 INFO scan save: D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\media\images\result_image_8_96411b4b73d3082907cd.jpg media/images/result_image_8_96411b4b73d3082907cd.jpg
+2025-07-04 19:19:55 INFO shutting down file pusher
+2025-07-04 19:19:55 INFO waiting for file pusher
+2025-07-04 19:19:55 INFO Uploaded file D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\output.log
+2025-07-04 19:19:55 INFO Uploaded file D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\wandb-summary.json
+2025-07-04 19:19:55 INFO Uploaded file D:\Pythonpro\imge-transfer\wandb\offline-run-20250704_020930-jrzt08mn\files\config.yaml
+2025-07-04 19:19:56 INFO file stream finish called
+2025-07-04 19:19:57 INFO file stream finish is done

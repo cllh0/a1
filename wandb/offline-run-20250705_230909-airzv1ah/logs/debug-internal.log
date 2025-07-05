@@ -1,0 +1,15 @@
+{"time":"2025-07-05T23:09:09.9801474+08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-07-05T23:09:09.9806735+08:00","level":"INFO","msg":"created symlink","path":"D:\\Pythonpro\\imge-transfer\\wandb\\offline-run-20250705_230909-airzv1ah\\logs\\debug-core.log"}
+{"time":"2025-07-05T23:09:10.2251987+08:00","level":"INFO","msg":"created new stream","id":"airzv1ah"}
+{"time":"2025-07-05T23:09:10.2257128+08:00","level":"INFO","msg":"stream: started","id":"airzv1ah"}
+{"time":"2025-07-05T23:09:10.2257128+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"airzv1ah"}
+{"time":"2025-07-05T23:09:10.2257128+08:00","level":"INFO","msg":"sender: started","stream_id":"airzv1ah"}
+{"time":"2025-07-05T23:09:10.2257128+08:00","level":"INFO","msg":"handler: started","stream_id":"airzv1ah"}
+{"time":"2025-07-05T23:09:10.2410545+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-07-05T23:09:12.6802985+08:00","level":"INFO","msg":"stream: closing","id":"airzv1ah"}
+{"time":"2025-07-05T23:09:12.6802985+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-07-05T23:09:12.6808241+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-07-05T23:09:12.6816227+08:00","level":"INFO","msg":"handler: closed","stream_id":"airzv1ah"}
+{"time":"2025-07-05T23:09:12.6816227+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"airzv1ah"}
+{"time":"2025-07-05T23:09:12.6816227+08:00","level":"INFO","msg":"sender: closed","stream_id":"airzv1ah"}
+{"time":"2025-07-05T23:09:12.682309+08:00","level":"INFO","msg":"stream: closed","id":"airzv1ah"}

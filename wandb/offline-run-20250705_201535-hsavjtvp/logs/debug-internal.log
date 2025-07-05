@@ -1,0 +1,15 @@
+{"time":"2025-07-05T20:15:35.5493652+08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-07-05T20:15:35.5493652+08:00","level":"INFO","msg":"created symlink","path":"D:\\Pythonpro\\imge-transfer\\wandb\\offline-run-20250705_201535-hsavjtvp\\logs\\debug-core.log"}
+{"time":"2025-07-05T20:15:35.7150817+08:00","level":"INFO","msg":"created new stream","id":"hsavjtvp"}
+{"time":"2025-07-05T20:15:35.7156305+08:00","level":"INFO","msg":"stream: started","id":"hsavjtvp"}
+{"time":"2025-07-05T20:15:35.7156305+08:00","level":"INFO","msg":"sender: started","stream_id":"hsavjtvp"}
+{"time":"2025-07-05T20:15:35.7156305+08:00","level":"INFO","msg":"handler: started","stream_id":"hsavjtvp"}
+{"time":"2025-07-05T20:15:35.7156305+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"hsavjtvp"}
+{"time":"2025-07-05T20:15:35.7345562+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-07-05T20:15:35.9232924+08:00","level":"INFO","msg":"stream: closing","id":"hsavjtvp"}
+{"time":"2025-07-05T20:15:35.9232924+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-07-05T20:15:35.9240724+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-07-05T20:15:35.9240724+08:00","level":"INFO","msg":"handler: closed","stream_id":"hsavjtvp"}
+{"time":"2025-07-05T20:15:35.9240724+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"hsavjtvp"}
+{"time":"2025-07-05T20:15:35.9240724+08:00","level":"INFO","msg":"sender: closed","stream_id":"hsavjtvp"}
+{"time":"2025-07-05T20:15:35.9246983+08:00","level":"INFO","msg":"stream: closed","id":"hsavjtvp"}

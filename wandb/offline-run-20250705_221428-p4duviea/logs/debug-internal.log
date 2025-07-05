@@ -1,0 +1,15 @@
+{"time":"2025-07-05T22:14:28.5708377+08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-07-05T22:14:28.5708377+08:00","level":"INFO","msg":"created symlink","path":"D:\\Pythonpro\\imge-transfer\\wandb\\offline-run-20250705_221428-p4duviea\\logs\\debug-core.log"}
+{"time":"2025-07-05T22:14:28.7352307+08:00","level":"INFO","msg":"created new stream","id":"p4duviea"}
+{"time":"2025-07-05T22:14:28.7352307+08:00","level":"INFO","msg":"stream: started","id":"p4duviea"}
+{"time":"2025-07-05T22:14:28.7352307+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"p4duviea"}
+{"time":"2025-07-05T22:14:28.7352307+08:00","level":"INFO","msg":"handler: started","stream_id":"p4duviea"}
+{"time":"2025-07-05T22:14:28.7352307+08:00","level":"INFO","msg":"sender: started","stream_id":"p4duviea"}
+{"time":"2025-07-05T22:14:28.7464068+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-07-05T22:14:37.7079357+08:00","level":"INFO","msg":"stream: closing","id":"p4duviea"}
+{"time":"2025-07-05T22:14:37.7079357+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-07-05T22:14:37.7121381+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-07-05T22:14:37.7121381+08:00","level":"INFO","msg":"handler: closed","stream_id":"p4duviea"}
+{"time":"2025-07-05T22:14:37.7121381+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"p4duviea"}
+{"time":"2025-07-05T22:14:37.7121381+08:00","level":"INFO","msg":"sender: closed","stream_id":"p4duviea"}
+{"time":"2025-07-05T22:14:37.7126491+08:00","level":"INFO","msg":"stream: closed","id":"p4duviea"}

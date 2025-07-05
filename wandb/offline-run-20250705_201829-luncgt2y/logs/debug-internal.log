@@ -1,0 +1,15 @@
+{"time":"2025-07-05T20:18:29.7161143+08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-07-05T20:18:29.7166269+08:00","level":"INFO","msg":"created symlink","path":"D:\\Pythonpro\\imge-transfer\\wandb\\offline-run-20250705_201829-luncgt2y\\logs\\debug-core.log"}
+{"time":"2025-07-05T20:18:29.8824268+08:00","level":"INFO","msg":"created new stream","id":"luncgt2y"}
+{"time":"2025-07-05T20:18:29.8824268+08:00","level":"INFO","msg":"stream: started","id":"luncgt2y"}
+{"time":"2025-07-05T20:18:29.8824268+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"luncgt2y"}
+{"time":"2025-07-05T20:18:29.8824268+08:00","level":"INFO","msg":"handler: started","stream_id":"luncgt2y"}
+{"time":"2025-07-05T20:18:29.8824268+08:00","level":"INFO","msg":"sender: started","stream_id":"luncgt2y"}
+{"time":"2025-07-05T20:18:29.8922585+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-07-05T20:18:30.079119+08:00","level":"INFO","msg":"stream: closing","id":"luncgt2y"}
+{"time":"2025-07-05T20:18:30.079119+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-07-05T20:18:30.0796222+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-07-05T20:18:30.0796222+08:00","level":"INFO","msg":"handler: closed","stream_id":"luncgt2y"}
+{"time":"2025-07-05T20:18:30.0796222+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"luncgt2y"}
+{"time":"2025-07-05T20:18:30.0796222+08:00","level":"INFO","msg":"sender: closed","stream_id":"luncgt2y"}
+{"time":"2025-07-05T20:18:30.0802289+08:00","level":"INFO","msg":"stream: closed","id":"luncgt2y"}
